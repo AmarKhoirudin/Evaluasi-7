@@ -1,0 +1,61 @@
+.navbar {
+  font-size: 20px;
+  margin: -23px 0%;
+}
+
+.form {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 40px 15%;
+  padding-bottom: 80px;
+  text-align: center;
+  font-size: 35px;
+  border-radius: 80px;
+}
+
+input {
+  height: 30px;
+  width: 70%;
+  border-radius: 50px;
+  font-size: 20px;
+  text-align: center;
+}
+
+input:hover {
+  background: rgb(10, 10, 90);
+  color: white;
+  font-size: 20px;
+}
+
+.login {
+  font-size: 30px;
+  margin: 0px 65.7%;
+  border-radius: 45px;
+  color: rgb(63, 138, 189);
+}
+
+.login:hover {
+  cursor: pointer;
+  background: rgb(10, 10, 90);
+  color: white;
+}
+.form-sign {
+  padding: 5px;
+}
+p {
+  margin: 0px;
+  color: rgb(63, 138, 189);
+}
+
+.news {
+  color: black;
+}
+
+
+.logout{
+    font-size: 40px;
+    margin-bottom: -20px; 
+}
+
+.logout:hover{
+  background: grey;
+}
